@@ -10,7 +10,7 @@ CORS(app)
 # CONFIG
 CLIENT_ID = "1488325613600378900"
 CLIENT_SECRET = "sGnfa2gdz5MmqvG39glQ6f5bJ11M-uqJ"
-REDIRECT_URI = "https://divisioncustoms.kesug.com/callback"
+REDIRECT_URI = "https://divisioncustoms.kesug.com"
 BOT_TOKEN = "MTQ4ODMyNTYxMzYwMDM3ODkwMA.GApypM.Om7Yf0I2vZ8YEigq0EsvjKXgdVil0P4E3gi5A8"
 GUILD_ID = 1093698141095723061
 
