@@ -1,4 +1,3 @@
-```python
 from flask import Flask, request, redirect, jsonify
 import requests
 from flask_cors import CORS
